@@ -1,9 +1,9 @@
-# About-Me
+# **About-Me**
 Class AboutMe{
 
     AboutMe(){
-    String Name = Assaduzzaman Munna;
-    String Occupation = UG Student;
-    String Qualification[] = {C,C++,Java,HTML,CSS};
+    String **Name** = _**Assaduzzaman Munna**_;
+    String **Occupation** = _UG Student_;
+    String **Qualification[]** = _{C,C++,Java,HTML,CSS}_;
     
     }
