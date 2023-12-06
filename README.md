@@ -4,7 +4,7 @@
 I Love coding, playing Football, Travelling, singing, and, most importantly, I love my Family.<br>
 I aim to Live a Successful life and give my family all the happiness they deserve.</i><br><br>
 
-<b> Qualifications- </b>
+<b>My Qualifications- </b>
   <i>
   - C Program
   - C++
