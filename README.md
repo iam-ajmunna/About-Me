@@ -6,11 +6,16 @@ I aim to Live a Successful life and give my family all the happiness they deserv
 
 <b>My Qualifications- </b>
   <i>
-  - C Program
+<pre>  - C Program
   - C++
   - Java
   - MySQL
   - HTML
-  - CSS
-  </i>  
+  - CSS</pre>
+  </i>  <br><br>
 
+<b>Contacts- </b><br>
+<pre>
+   Facebook : <a href="https://www.facebook.com/iam.ajmunna"> Assaduzzaman Munna </a>
+   Gmail : <a href = "mailto:iam.ajmunna@gmail.com"> AJ Munna </a>
+</pre>
